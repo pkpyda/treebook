@@ -6,7 +6,7 @@ gem 'rails', '3.2.0'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
-
+gem 'devise'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -25,7 +25,7 @@ gem 'execjs'
 gem 'therubyracer', :platform => :ruby
 
 # To use ActiveModel has_secure_password
-# gem 'bcrypt-ruby', '~> 3.0.0'
+# gem 'bcrypt', '~> 3.0.0'
 
 # To use Jbuilder templates for JSON
 # gem 'jbuilder'
