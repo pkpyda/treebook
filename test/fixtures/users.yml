@@ -3,5 +3,11 @@ praveen:
  last_name: "kumar"
  profile_name: "praveenkumar"
  email: "praveen.soft20@gmail.com"
- encrypted_password: "password"
+
+akhil:
+ first_name: "akhil"
+ last_name: "kumar"
+ profile_name: "akhilkumar"
+ email: "akhil.soft20@gmail.com"
+
  
